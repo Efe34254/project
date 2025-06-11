@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "MoodTrackerExpo",
-    "slug": "MoodTrackerExpo",
+    "mood": "MoodTrackerExpo",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
