@@ -1,0 +1,26 @@
+node_modules
+.expo
+.vscode
+__tests__
+AppData/
+Desktop/
+Documents/
+Downloads/
+Music/
+Pictures/
+Videos/
+OneDrive/
+Cookies/
+Contacts/
+Favorites/
+Links/
+Searches/
+Saved Games/
+Dane aplikacji/
+Moje dokumenty/
+Moja muzyka/
+Moje obrazy/
+Moje wideo/
+Menu Start/
+Szablony/
+Ustawienia lokalne/

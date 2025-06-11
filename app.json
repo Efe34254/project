@@ -1,0 +1,44 @@
+{
+  "expo": {
+    "name": "MoodTrackerExpo",
+    "slug": "MoodTrackerExpo",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/icon.png",
+    "scheme": "icon.png",
+    "userInterfaceStyle": "icon.png",
+    "newArchEnabled": true,
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/images/icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "edgeToEdgeEnabled": true,
+      "package": "com.kagan3243.MoodTrackerExpo"
+    },
+    "web": {
+      "bundler": "metro",
+      "favicon": "./assets/images/favicon.png"
+    },
+    "plugins": [
+      [
+        "icon.png",
+        {
+          "image": "./assets/images/icon.png",
+          "imageWidth": 200,
+          "resizeMode": "contain",
+          "backgroundColor": "#ffffff"
+        }
+      ]
+    ],
+    "experiments": {},
+    "extra": {
+      "eas": {
+        "projectId": "bd980a01-2857-470c-bdb9-154fac0bb2eb"
+      }
+    }
+  }
+}
